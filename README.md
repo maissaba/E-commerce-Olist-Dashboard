@@ -5,6 +5,7 @@ This repository showcases a project focused on data analysis for the Olist e-com
 1. **ETL (Extract, Transform, Load)**: 
    - **SSIS (SQL Server Integration Services)**: Used for data extraction, transformation, and loading into SQL Server.
    - **SSMS (SQL Server Management Studio)**: Used for creating the database and managing the data transformation process.
+   - **Data Source**: The dataset used in this project was downloaded from **Kaggle**, in CSV format, and contains historical sales and customer data for Olist.
 
 2. **Dashboard**:
    - **Power BI**: A comprehensive data visualization tool used to create interactive reports and dashboards, displaying key metrics and insights for the e-commerce platform.
